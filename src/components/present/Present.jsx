@@ -16,7 +16,7 @@ const Present = ({ index }) => {
       <div className="stripeX"></div>
       <img
         className="sorpresa"
-        src={`https://picsum.photos/seed/${index}/150/100`}
+        src={`https://picsum.photos/seed/${index + 1}/150/100`}
         alt="present"
       />
     </div>
