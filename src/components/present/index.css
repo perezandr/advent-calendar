@@ -51,11 +51,11 @@
   position: absolute;
   top: 25%;
   left: 33%;
-  /* transform: translate(-50%, -50%); */
+
   z-index: 3;
   transition: border 0.3s ease;
   transition: top 0.5s ease-in-out;
-  /* transition: transform 0.5s ease-in-out; */
+
   cursor: inherit;
 }
 
